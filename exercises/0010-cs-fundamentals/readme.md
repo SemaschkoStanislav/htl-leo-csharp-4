@@ -50,8 +50,8 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 | The type `dynamic`                                     |         |
 | Single- and multi-dimensional arrays                   | Jan Fischlmayr        |
 | `?.`, `??`, and `??=`                                  |         |
-| `string` vs. `StringBuilder`                           |         |
-| `const` and `readonly`                                 |         |
+| `string` vs. `StringBuilder`                           |        |
+| `const` and `readonly`                                 |Stanislav Semaschko          |
 | Locking                                                |         |
 | Function parameter modifiers (`in`, `ref`, `out`)      |Raci Dionis|
 | Generics                                               |         |
@@ -62,9 +62,9 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 | Topic                         | Student |
 | ----------------------------- | ------- |
 | Records                       |         |
-| Reflection                    | Khnifes Kyrillus|
+| Reflection                    |Khnifes Kyrillus|
 | Delegates                     |         |
 | Events                        |         |
-| Enumerators and `yield`       | Kastenhofer Daniel        |
+| Enumerators and `yield`       |         |
 | Attributes                    |         |
 | Covariance and Contravariance |         |
